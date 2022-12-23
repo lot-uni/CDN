@@ -1,1 +1,1 @@
-console.log("load coment.js")
+console.log("load coment.js");
